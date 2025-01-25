@@ -7,7 +7,7 @@ NFT Launchpad AI Agent is a revolutionary AI-driven platform that redefines how 
 ## 🌟 Key Features  
 
 ### 1. **AI-Powered Image Generation**  
-<h5>How It Works</h5>
+<h4>How It Works</h4>
 1. Interactive Chat:
 
 Describe the image you envision through a conversational interface.
