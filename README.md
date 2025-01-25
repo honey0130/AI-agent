@@ -10,23 +10,23 @@ NFT Launchpad AI Agent is a revolutionary AI-driven platform that redefines how 
 <h3>How It Works</h3>
 <h4>1. Interactive Chat:</h4>
 
-Describe the image you envision through a conversational interface.
-The AI understands your prompts, whether simple or highly detailed, and provides suggestions to refine your idea.
+- Describe the image you envision through a conversational interface.
+- The AI understands your prompts, whether simple or highly detailed, and provides suggestions to refine your idea.
 
 <h4>2. Advanced AI Models:</h4>
 
-Powered by state-of-the-art models like Stable Diffusion, DALL-E, or custom fine-tuned AI.
-Capable of generating high-quality, resolution-optimized images tailored to your description.
+- Powered by state-of-the-art models like Stable Diffusion, DALL-E, or custom fine-tuned AI.
+- Capable of generating high-quality, resolution-optimized images tailored to your description.
 
 <h4>3. Customization:</h4>
 
-Add style preferences, themes, or visual effects during the chat (e.g., "Make it in cyberpunk style" or "Add a glowing effect").
-The AI adapts to different artistic styles, including abstract, realistic, pixel art, or cartoon-like visuals.
+- Add style preferences, themes, or visual effects during the chat (e.g., "Make it in cyberpunk style" or "Add a glowing effect").
+- The AI adapts to different artistic styles, including abstract, realistic, pixel art, or cartoon-like visuals.
 
 <h4>4. Seamless Output:</h4>
 
-The generated artwork is immediately available for review.
-Users can approve, request changes, or regenerate images for the perfect result.
+- The generated artwork is immediately available for review.
+- Users can approve, request changes, or regenerate images for the perfect result.
 
 <h3>Why AI-Powered Image Generation?</h3>
 - <b>Creativity Made Simple:</b> Even users without artistic skills can create unique, high-quality artwork.
