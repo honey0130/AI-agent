@@ -13,54 +13,55 @@ NFT Launchpad AI Agent is a revolutionary AI-driven platform that redefines how 
 Describe the image you envision through a conversational interface.
 The AI understands your prompts, whether simple or highly detailed, and provides suggestions to refine your idea.
 
-<h4>Advanced AI Models:</h4>
+<h4>2. Advanced AI Models:</h4>
 
 Powered by state-of-the-art models like Stable Diffusion, DALL-E, or custom fine-tuned AI.
 Capable of generating high-quality, resolution-optimized images tailored to your description.
 
-<h4>Customization:</h4>
+<h4>3. Customization:</h4>
 
 Add style preferences, themes, or visual effects during the chat (e.g., "Make it in cyberpunk style" or "Add a glowing effect").
 The AI adapts to different artistic styles, including abstract, realistic, pixel art, or cartoon-like visuals.
 
-<h4>Seamless Output:</h4>
+<h4>4. Seamless Output:</h4>
 
 The generated artwork is immediately available for review.
 Users can approve, request changes, or regenerate images for the perfect result.
 
 <h3>Why AI-Powered Image Generation?</h3>
-<b>Creativity Made Simple:</b> Even users without artistic skills can create unique, high-quality artwork.
-Endless Possibilities: Generate one-of-a-kind visuals for NFT collections, personal projects, or community engagement.
-Time-Saving: Skip the lengthy design process and get results within seconds.
-<b>Inspiration on Demand:</b> Not sure what you want? Let the AI suggest ideas and variations based on trends or themes.
+- <b>Creativity Made Simple:</b> Even users without artistic skills can create unique, high-quality artwork.
+- <b>Endless Possibilities:</b> Generate one-of-a-kind visuals for NFT collections, personal projects, or community engagement.
+- <b>Time-Saving:</b> Skip the lengthy design process and get results within seconds.
+- <b>Inspiration on Demand:</b> Not sure what you want? Let the AI suggest ideas and variations based on trends or themes.
 
 <h3>Built for NFT Enthusiasts</h3>
-The generated images are optimized for blockchain minting, with proper metadata and compatibility with platforms like Ethereum, Solana, or Polygon.
-Every creation is 100% original and belongs exclusively to the user, ensuring full ownership and creative rights.
+- The generated images are optimized for blockchain minting, with proper metadata and compatibility with platforms like Ethereum, Solana, or Polygon.
+- Every creation is 100% original and belongs exclusively to the user, ensuring full ownership and creative rights.
 
 ### 2. **NFT Minting Made Easy**  
 <h3>Generate Artwork:</h3>
 
-Use our AI-Powered Image Generation feature to create a unique image tailored to your vision.
+- Use our AI-Powered Image Generation feature to create a unique image tailored to your vision.
 
 <h3>Review and Customize Metadata:</h3>
 
-Add essential NFT details like title, description, and tags to personalize your asset.
-Automatically embeds traits, rarity information, or custom attributes for collections.
-Select Blockchain Network:
+- Add essential NFT details like title, description, and tags to personalize your asset.
+- Automatically embeds traits, rarity information, or custom attributes for collections.
+  
+<h3>Select Blockchain Network:</h3>
 
-Choose from supported blockchain platforms like Ethereum, Solana, or Polygon.
-Get recommendations for eco-friendly and cost-effective networks.
+- Choose from supported blockchain platforms like Ethereum, Solana, or Polygon.
+- Get recommendations for eco-friendly and cost-effective networks.
 
 <h3>One-Click Minting:</h3>
 
-With a single click, mint your NFT directly from the platform.
-The system ensures secure and efficient transactions with gas optimization.
+- With a single click, mint your NFT directly from the platform.
+- The system ensures secure and efficient transactions with gas optimization.
 
 <h3>Ownership Verified:</h3>
 
-Once minted, your NFT is stored on-chain and fully owned by you.
-View and manage it through your connected wallet.
+- Once minted, your NFT is stored on-chain and fully owned by you.
+- View and manage it through your connected wallet.
 
 ### 3. **Interactive Conversations**  
 - <b>User-Friendly:</b> Simplifies complex blockchain concepts and processes with natural language interaction.
