@@ -1,4 +1,4 @@
-# 🎨 NFT Launchpad AI Agent  
+# 🎨 NFT Mint AI Agent  
 
 NFT Launchpad AI Agent is a revolutionary AI-driven platform that redefines how creators and collectors interact with NFTs. Combining the power of cutting-edge **LLMs (Large Language Models)** and AI-generated art, this agent enables users to create stunning, customized NFTs through conversational interaction and mint them seamlessly on the blockchain.
 
