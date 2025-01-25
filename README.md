@@ -29,10 +29,10 @@ NFT Launchpad AI Agent is a revolutionary AI-driven platform that redefines how 
 - Users can approve, request changes, or regenerate images for the perfect result.
 
 <h3>Why AI-Powered Image Generation?</h3>
-- <b>Creativity Made Simple:</b> Even users without artistic skills can create unique, high-quality artwork.
-- <b>Endless Possibilities:</b> Generate one-of-a-kind visuals for NFT collections, personal projects, or community engagement.
-- <b>Time-Saving:</b> Skip the lengthy design process and get results within seconds.
-- <b>Inspiration on Demand:</b> Not sure what you want? Let the AI suggest ideas and variations based on trends or themes.
+- Creativity Made Simple: Even users without artistic skills can create unique, high-quality artwork.
+- Endless Possibilities: Generate one-of-a-kind visuals for NFT collections, personal projects, or community engagement.
+- Time-Saving: Skip the lengthy design process and get results within seconds.
+- Inspiration on Demand: Not sure what you want? Let the AI suggest ideas and variations based on trends or themes.
 
 <h3>Built for NFT Enthusiasts</h3>
 - The generated images are optimized for blockchain minting, with proper metadata and compatibility with platforms like Ethereum, Solana, or Polygon.
